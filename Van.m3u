@@ -786,7 +786,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/NzTxW4t.png"
 
-#EXTINF:-1 group-title="BENFLIXTV TV" tvg-id="" tvg-logo="https://i.imgur.com/qx0IGXg.png" ,Astro Sports Plus
+#EXTINF:-1 group-title="BENFLIX TV" tvg-id="" tvg-logo="https://i.imgur.com/qx0IGXg.png" ,Astro Sports Plus
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
@@ -1288,7 +1288,7 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e 
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 group-title="RBENFLIX TV" tvg-id="" tvg-logo="https://i.imgur.com/bBNpuCE.jpeg",EuroNews
+#EXTINF:-1 group-title="BENFLIX TV" tvg-id="" tvg-logo="https://i.imgur.com/bBNpuCE.jpeg",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab8802bff2a49b29518d771b9a9a8bd:51ecbc7e4dc790904c13cebde5eb46fb
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1366,14 +1366,14 @@ https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 
-#EXTINF:-1 group-title="RBENFLIX TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png", Astro Boo
+#EXTINF:-1 group-title="BENFLIX TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png", Astro Boo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
-#EXTINF:-1 group-title="RYANTV FREETV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD
+#EXTINF:-1 group-title="BENFLIX TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
