@@ -4,6 +4,8 @@
 
 **********BENFLIXTV**********
 
+#EXTM3U
+
 #EXTINF:-1 tvg-chno="52" channel-number="52" tvg-id="AMC" tvg-logo="https://tlgrm.re/images/amc-us.png" tvg-name="AMC" group-title="3rstv",AMC
 http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15923.m3u8
 
