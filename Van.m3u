@@ -2,7 +2,103 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-**********RYANTVFREETV-**********
+**********BENFLIXTV**********
+
+#EXTINF:-1 tvg-chno="52" channel-number="52" tvg-id="AMC" tvg-logo="https://tlgrm.re/images/amc-us.png" tvg-name="AMC" group-title="3rstv",AMC
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15923.m3u8
+
+#EXTINF:-1 tvg-chno="123" channel-number="123" tvg-id="ASIAN CRUSH" tvg-logo="https://i.imgur.com/hW6z1RG.png" tvg-name="ASIAN CRUSH" group-title="3rstv",ASIAN CRUSH
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="667" channel-number="667" tvg-id="PINASTV PINOY" tvg-logo="https://imgur.com/HMV8KNO.png" tvg-name="PINASTV PINOY" group-title="3rstv",EASTERN LUZON DIGITALTV
+https://easternluzondigitaltv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="668" channel-number="668" tvg-id="PINASTV ENTERTAIMENT" tvg-logo="https://imgur.com/JUb4wmp.png" tvg-name="PINASTV ENTERTAIMENT" group-title="3rstv",COLORS TV
+https://colorstvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="3RsTV" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" tvg-name="3RsTV" group-title="3rstv",3RsTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rstv.peanutfrenztv.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-chno="2" channel-number="2" tvg-id="3RSineAksyon" tvg-logo="https://i.imgur.com/oOzQPv3.jpeg" tvg-name="3RSineAksyon" group-title="3rstv",3RSineAksyon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rssineaksyon.peanutfrenztv.workers.dev/donut.m3u8
+
+#EXTINF:-1 tvg-chno="3" channel-number="3" tvg-id="3RsCartoonMovies" tvg-logo="https://i.imgur.com/OMGlC4R.jpg" tvg-name="3RsCartoonMovies" group-title="3rstv",3RsCartoonMovies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rscartoonmovies.peanutfrenztv.workers.dev/kolet.m3u8
+
+#EXTINF:-1 tvg-chno="4" channel-number="4" tvg-id="3rsMovieBoxPh" tvg-logo="https://i.imgur.com/b4rjf8n.jpg" tvg-name="3rsMovieBoxPh" group-title="3rstv",3rsMovieBoxPh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rsmoviebox.tonia3305.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-chno="5" channel-number="5" tvg-id="3rsSinePinoy" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" tvg-name="3rsSinePinoy" group-title="3rstv",3rsSinePinoy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rssinepinoy.peanutfrenztv.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-chno="6" channel-number="6" tvg-id="Mr.Yuso TV" tvg-logo="https://i.imgur.com/odbG2KL.jpg" tvg-name="Mr.Yuso TV" group-title="3rstv",Mr.Yuso TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://mryuso.porhibitum.workers.dev/master.live.m3u
+
+#EXTINF:-1 tvg-chno="52" channel-number="52" tvg-id="AMC" tvg-logo="https://tlgrm.re/images/amc-us.png" tvg-name="AMC" group-title="3rstv",AMC
+http://kstv.us:8080/live/QZ757Ay5cQ/9124292972/15923.m3u8
+
+#EXTINF:-1 tvg-chno="123" channel-number="123" tvg-id="ASIAN CRUSH" tvg-logo="https://i.imgur.com/hW6z1RG.png" tvg-name="ASIAN CRUSH" group-title="3rstv",ASIAN CRUSH
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="667" channel-number="667" tvg-id="PINASTV PINOY" tvg-logo="https://imgur.com/HMV8KNO.png" tvg-name="PINASTV PINOY" group-title="3rstv",EASTERN LUZON DIGITALTV
+https://easternluzondigitaltv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="668" channel-number="668" tvg-id="PINASTV ENTERTAIMENT" tvg-logo="https://imgur.com/JUb4wmp.png" tvg-name="PINASTV ENTERTAIMENT" group-title="3rstv",COLORS TV
+https://colorstvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="3RsTV" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" tvg-name="3RsTV" group-title="3rstv",3RsTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rstv.peanutfrenztv.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-chno="2" channel-number="2" tvg-id="3RSineAksyon" tvg-logo="https://i.imgur.com/oOzQPv3.jpeg" tvg-name="3RSineAksyon" group-title="3rstv",3RSineAksyon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rssineaksyon.peanutfrenztv.workers.dev/donut.m3u8
+
+#EXTINF:-1 tvg-chno="3" channel-number="3" tvg-id="3RsCartoonMovies" tvg-logo="https://i.imgur.com/OMGlC4R.jpg" tvg-name="3RsCartoonMovies" group-title="3rstv",3RsCartoonMovies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rscartoonmovies.peanutfrenztv.workers.dev/kolet.m3u8
+
+#EXTINF:-1 tvg-chno="4" channel-number="4" tvg-id="3rsMovieBoxPh" tvg-logo="https://i.imgur.com/b4rjf8n.jpg" tvg-name="3rsMovieBoxPh" group-title="3rstv",3rsMovieBoxPh
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rsmoviebox.tonia3305.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-chno="5" channel-number="5" tvg-id="3rsSinePinoy" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" tvg-name="3rsSinePinoy" group-title="3rstv",3rsSinePinoy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://3rssinepinoy.peanutfrenztv.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-chno="6" channel-number="6" tvg-id="Mr.Yuso TV" tvg-logo="https://i.imgur.com/odbG2KL.jpg" tvg-name="Mr.Yuso TV" group-title="3rstv",Mr.Yuso TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.key_id=ea6588d030c94ca89925ac0c49974430
+#KODIPROP:inputstream.adaptive.clear_key=3e6de4afee1eff8e14f9506b76ac9ee6
+https://mryuso.porhibitum.workers.dev/master.live.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="BENFLIX TV", PBB 3.0 ALL ACESS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -23,8 +119,6 @@ https://pbbcollab.com/api/live/mpd/ext.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
 https://pbbcollab.com/api/live/mpd/main.mpd
-
-#EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="BENFLIX TV",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
